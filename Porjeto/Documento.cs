@@ -6,8 +6,7 @@ using System.Threading.Tasks;
 
 namespace Porjeto
 {
-    namespace LibraryManagement.Models
-    {
+  
         public class Documento
         {
             public int Id { get; set; }
@@ -17,5 +16,5 @@ namespace Porjeto
             public DateTime DataDevolucao { get; set; }
         }
     }
-}
+
     
